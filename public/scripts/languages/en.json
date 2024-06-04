@@ -1,0 +1,42 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Front-End Web Developer",
+        "parrafo-info": "I am currently studying Software Development, I am a lover of programming with the objective of creating projects that give the best quality of interaction to the user.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi":"I am a student in the BYU-IDAHO study program, where I am pursuing a bachelor's degree in Software Engineering. <br> My fascination with programming goes beyond mere code writing; I enjoy transforming ideas into practical and functional solutions. I love the challenges presented by the world of software engineering, as each problem is an opportunity to learn something new and enhance my skills. Tranquility is my creative ally, and I find inspiration in serene environments to fuel my creativity. I am committed to continuous development and eagerly look forward to contributing to the world of technology with innovative and efficient solutions."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "training",
+        "formacion1": "Universidad de Costa Rica",
+        "tiempo-formacion1": "2019",
+        "formacion2": "English Course Preparation",
+        "tiempo-formacion2": "2019 - 2020",
+        "formacion3": "Software Engineering Bachiller"
+    },
+
+    
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

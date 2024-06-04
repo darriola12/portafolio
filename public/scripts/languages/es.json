@@ -1,0 +1,42 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrolladora web Front-End",
+        "parrafo-info": "Actualmente estoy estudiando Desarrollo de Software, soy un amante de la progromacion con el obetivo de crear proyectos que den la mejor calidad de interaccion al usuario.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy estudiante del programa de estudio de BYU-IDAHO, en donde estoy cursando por un bachiller en Ingeneria en Software. <br> Mi fascinación por la programación va más allá de la simple escritura de código; disfruto transformando ideas en soluciones prácticas y funcionales.  Me encantan los desafíos que presenta el mundo de la ingeniería de software, ya que cada problema es una oportunidad para aprender algo nuevo y mejorar mis habilidades. La tranquilidad es mi aliada creativa, y encuentro inspiración en entornos serenos para impulsar mi creatividad. Estoy comprometido con el desarrollo constante y ansío contribuir al mundo de la tecnología con soluciones innovadoras y eficientes."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Universidad de Costa Rica",
+        "tiempo-formacion1": "2019",
+        "formacion2": "Curso de preparacion de Ingles",
+        "tiempo-formacion2": "2019 - 2020",
+        "formacion3": "Bachiller en Ingeniería de Software"
+    },
+
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
